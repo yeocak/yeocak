@@ -46,4 +46,4 @@
 
 --------------------
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeocak&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="yeocak" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeocak&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="yeocak" /></p>
