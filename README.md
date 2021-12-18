@@ -3,11 +3,11 @@
 
 </a></p>
 
-- 🔭 I’m currently working on **Fast Sözlük (New Android App)**
+- 🔭 I’m currently working on **Fast Sözlük (A new Android app that will be published in Google Play)**
 
 - 🌱 I’m currently learning **Jetpack Compose and React Native**
 
-- 👨‍💻 All of my projects are available at [github.com/yeocak](github.com/yeocak)
+- 👨‍💻 All of my projects are available at [my github profile.](https://github.com/yeocak)
 
 - 💬 Ask me about **Kotlin and herbal teas :)**
 
