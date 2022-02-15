@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my github profile.](https://github.com/yeocak)
 
-- 💬 Ask me about **Kotlin and herbal teas :)**
+- 💬 Ask me about **classic rock and herbal teas :)**
 
 - 📫 Reach me from **ocakyunusemre@hotmail.com**
 
